@@ -30,10 +30,14 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
 <<<<<<< HEAD
+<<<<<<< HEAD
     public boolean onCreateOptionsMenu(Menu menu) 234 {
 =======
     public boolean onCreateOptionsMenu(Menu menu) 123 {
 >>>>>>> c468592471caaeae8ab807e0abd3a3ecaa9aa79f
+=======
+    public boolean onCreateOptionsMenu(Menu menu) {
+>>>>>>> parent of d9967c7... newer
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
